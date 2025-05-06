@@ -1,7 +1,5 @@
 # DataWrangling_Bonus_task
 
-# Job Requirements Dashboard
-
 This project collects job postings from [hh.ru](https://hh.ru) for roles related to **Data Science**, **Machine Learning Engineering**, and **Python Development**, and provides a dashboard visualizing key requirements.
 
 ---
