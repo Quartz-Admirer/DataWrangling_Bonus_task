@@ -1,5 +1,7 @@
 # DataWrangling_Bonus_task
 
+You can view the live dashboard here: [Job Requirements Dashboard](https://quartz-admirer-datawrangling-bonus-task-dashboard-bqhx0b.streamlit.app/)
+
 This project collects job postings from [hh.ru](https://hh.ru) for roles related to **Data Science**, **Machine Learning Engineering**, and **Python Development**, and provides a dashboard visualizing key requirements.
 
 ---
